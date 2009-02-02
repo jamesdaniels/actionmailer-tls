@@ -1,0 +1,5 @@
+h1. ActionMailer TLS
+
+Allows ActionMailer to use TLS (for GMail, etc.)
+
+Initial commit is from this blog post: "How to use GMail SMTP server to send emails in Rails ActionMailer":http://www.stephenchu.com/2006/06/how-to-use-gmail-smtp-server-to-send.html
